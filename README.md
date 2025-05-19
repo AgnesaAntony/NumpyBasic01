@@ -24,4 +24,4 @@ This notebook contains my hands-on practice with NumPy, the powerful numerical c
 
 This work is based on the tutorials provided by W3Schools, which offer an excellent foundation for beginners in data science and numerical programming:
 
-👉 W3Schools NumPy Tutorial
+👉 W3Schools NumPy Tutorial(https://www.w3schools.com/python/numpy/default.asp)
